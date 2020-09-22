@@ -1,0 +1,103 @@
+SUPPLEMENTAL END USER LICENSE 
+AGREEMENT FOR AGENTSOFT SOFTWARE
+
+IMPORTANT:  READ CAREFULLY - These t 
+AgentSoft Corporation ("AgentSoft") operating 
+system 
+components, including any "online" or electronic 
+documentation ("Aplication Components") are 
+subject to 
+the terms and conditions of the agreement under 
+which you have licensed the applicable AgentSoft 
+ 
+product (" Product") described 
+below (each an "End User License Agreement" or 
+"EULA") and the terms and conditions of this 
+Supplemental EULA.  BY INSTALLING, COPYING, 
+OR OTHERWISE USING THE  
+COMPONENTS, YOU AGREE TO BE BOUND BY 
+THE TERMS AND CONDITIONS OF THE 
+APPLICABLE  PRODUCT EULA AND THIS 
+SUPPLEMENTAL EULA.  IF YOU DO NOT 
+AGREE TO THESE TERMS AND CONDITIONS, 
+DO NOT INSTALL, COPY, OR USE THE
+COMPONENTS.
+
+Capitalized terms used in this Supplemental EULA 
+and not otherwise defined herein shall have the 
+meanings assigned to them in the applicable
+Product EULA.
+
+General.  Each of the Components available 
+from this site is identified as being applicable to one 
+or more of the Products.  The applicable  
+Components are provided to you by AgentSoft to 
+update, supplement, or replace existing 
+functionality 
+of the applicable Product.  AgentSoft grants you 
+a license to use the applicable Components 
+under the terms and conditions of the EULA for the 
+applicable Product (which are hereby 
+incorporated by reference except as set forth 
+below), and the terms and conditions set forth in 
+this 
+Supplemental EULA.  To the extent that the terms 
+and conditions of this Supplemental EULA conflict 
+with the terms and conditions of the applicable
+Product EULA, the terms and conditions of this 
+Supplemental EULA shall apply with respect to the 
+Components.
+
+Additional Rights and Limitations.  
+
+*	If you have multiple, validly licensed 
+copies of any Product, you may reproduce, 
+install and use one (1) copy of the applicable 
+Components as part of the applicable Product 
+on each of your computers running validly licensed 
+copies of the applicable Product, provided that 
+you use such additional copies of such 
+Components in accordance with the terms and 
+conditions above.  For each validly licensed copy 
+of 
+the applicable Product, you also may reproduce 
+one (1) additional copy of the applicable OS 
+Components solely for archival purposes or 
+reinstallation of the Components on the same 
+computer as the  Components were previously 
+installed.  AgentSoft retains all right, title and 
+interest 
+in and to the  Components.  All rights not 
+expressly granted are reserved by AgentSoft.
+
+*	If you are installing the OS Components 
+on behalf of an organization other than your own, 
+prior to installing any of the OS Components, you 
+must confirm that the end-user (whether an 
+individual or a single entity) has a validly licensed 
+copy of an OS Product and has received, read and 
+accepted the terms and conditions of this 
+Supplemental EULA.
+
+*	The OS Components may contain 
+technology that enables applications to be shared 
+between two (2) or more computers, even if an 
+application is installed on only one (1) of the 
+computers.  You may use this technology with all 
+AgentSoft application products for multi-party 
+conferences.  For non-AgentSoft applications, you 
+should consult the license agreement 
+accompanying such applications or contact the 
+licensor of such applications to determine whether 
+application sharing is permitted by the licensor.
+
+You acknowledge that the  Components are of 
+U.S. origin.  You agree to comply with all applicable 
+international and national laws that apply to the
+Components, including the U.S. Export 
+Administration Regulations, as well as en-user and 
+destination restrictions issued by U.S. and other 
+governments.
+
+If You Do Not Agree To These Terms And 
+Conditions Then Uninstall this Program
